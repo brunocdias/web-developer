@@ -1,0 +1,6 @@
+git init  // inicializa o git
+git add // adiciona para commit arquivo especificado
+git add . // adiciona todos os arquivos modificados
+git commit -m "" // adiciona mensagem 
+git status // mostra status dos arquivos
+git log // mostra o historico de mudanças
